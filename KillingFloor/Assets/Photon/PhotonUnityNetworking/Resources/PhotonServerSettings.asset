@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 4d84d3e8-6a44-4fbb-8588-06c5bc75ef32
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - ApplyUpdatedHealth
+  - OnDamage
+  - RestoreArmor
+  - RestoreHealth
+  - GetCoin
+  - FireProcessOnServer
+  - ShotProcessOnServer
+  - GetAmmo
+  - ShotEffectProcessOnClients
+  - CameraRotation
+  - SyncPlayerlook
+  - MasterDamage
+  - SyncDamage
+  - Damage
+  - OnDestroy
+  - SpendCoin
+  - BossAttackAni
+  - changeTime
+  - Hit
+  - OnPoison
+  - AnimatorStart
+  - masterCle
+  - BossMove
+  - BossOff
+  - BuyArmorMaster
+  - HealProcessOnServer
+  - SyncHeal
+  - BuyArmorProcessOnServer
+  - SyncBuyArmor
+  - BossSp
+  - PartticleOn
+  - IntroOff
+  - IntroOffMaster
+  - bossIntroTime
+  - IntroDel
+  - MasterTransform
+  - SyncTransform
+  - bossMove
+  - MasterActive
+  - MasterZed
+  - SyncActive
+  - SyncZedTime
+  - MasterSkill
+  - MasterZedTime
+  - MasterZombieTransform
+  - SyncSkill
+  - SyncZombieTransfrom
+  - MasterSpawn
+  - SyncSpawn
+  - SyncLoad
+  - SyncSceneLoad
+  - DataProcessOnServer
+  - SetWeapon
+  - ServerProcessWeapon
+  - MasterCount
+  - SyncCount
+  - SyncNum
+  - OnReadyCheck
+  - OnStartCheck
+  - BuyAmmoProcessOnServer
+  - SyncBuyAmmo
+  - MasterParent
+  - SyncParent
+  - SyncZed
+  - MasterParent
+  - SyncParent
+  - DieProcessOnServer
+  - DieSync
+  - MasterLoad
+  - SyncAni
+  - MasterStart
+  - SyncStart
+  - shopNavSp
+  - MeleeBlood
+  - ExpUp
+  - SyncClass
+  - MasterChange
+  - SyncChange
+  - changeMaster
+  - changeRender
+  - AllAct
+  - EndAllAct
+  - EndMasterAct
+  - MasterAct
+  - TriggerAllAct
+  - TriggerMasterAct
+  - GranadeActAll
+  - GranadeActMaster
+  - SyncDeadCount
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
