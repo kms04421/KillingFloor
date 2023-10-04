@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FPS CAM
+  - TPS CAM
+  - AttackObject
+  - HitDamage
+  - Boss
+  - Item
+  - FxTemporaire
+  - Inspector CAM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - LeftAttack
+  - FrontAttack
+  - RightAtttack
+  - HeadAttack
+  - 
+  - Weapon
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
